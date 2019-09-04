@@ -7,8 +7,8 @@
 apt-get update
 
 # Perform Upgrade
-apt-get -y upgrade
-apt-get -y dist-upgrade
+#apt-get -y upgrade
+#apt-get -y dist-upgrade
 
 # Clean + purge old/obsoleted packages
 apt-get -y autoremove
